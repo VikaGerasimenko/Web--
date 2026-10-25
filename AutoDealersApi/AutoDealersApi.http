@@ -1,0 +1,6 @@
+@AutoDealersApi_HostAddress = http://localhost:5276
+
+GET {{AutoDealersApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
